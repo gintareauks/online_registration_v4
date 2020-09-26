@@ -100,7 +100,7 @@ select {
 
 input:focus,
 select:focus,
-textarea {
+textarea:focus {
     outline-color: #1f2d2d;
 }
 
